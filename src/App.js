@@ -83,6 +83,7 @@ export default function App() {
   return (
     <div>
       <center>
+        <h1>hi</h1>
      <input type="text" placeholder="add todo" onChange={handleChange} value={inputText} size="50" height="50"/>
      <button type="button" onClick={addtodo}>Add Todo</button>
      <div>
