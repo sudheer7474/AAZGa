@@ -116,6 +116,8 @@ export default function App() {
      
      <hr/>
      <h2>Remove Subsequent pairs:</h2>
+     <h2>Remove Subsequent pairs:</h2>
+     <h2>Remove Subsequent pairs:</h2>
   <input type="text" onChange={handleTextEnter}/>
   <button type="button" onClick={handleOutPut}>output</button>
   <p>Output: {output}</p>
